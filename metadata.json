@@ -1,0 +1,6 @@
+{
+  "name": "СоседиДел",
+  "description": "Современная цифровая экосистема для жителей ЖК: общая лента дома, объявления, двор, совет дома, проверенные мастера, знакомства и чаты.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
